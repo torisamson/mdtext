@@ -1,0 +1,1 @@
+the purpose of this repository is to test learner's memory based on what he/she has learnt about github so far and also so test the skill. 

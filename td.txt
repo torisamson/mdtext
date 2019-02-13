@@ -1,0 +1,12 @@
+-open the command line:
+-type sysdm.cpl
+-a window will be displayed on your screen and "Computer Name" will be active, so click on advanced.
+-click on environment variable, a window with options Use variables and Sysytem Variables will pop up. go to System variables and select path.
+-click on edit and a window will pop up. it might or might not contain sublime text, so in a case where it doesnt contain sublime text, click on browse and search for 
+where sublime text is kept on your system. 
+-copy out the directory name and paste it on the Edit environment variable"
+-click on ok. 
+-to use sublime text as your default text editor, you first go to documents.
+-then right click on the screen and select new then click on folder and type in a folder name.
+-open the folder and right on the mouse, select git bash here
+-and initialize git. 
