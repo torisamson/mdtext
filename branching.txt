@@ -1,0 +1,1 @@
+To create a branch first i opened git bash here under mdtext. then i typed "git branch". then i typed "git branch and the name of the branch 'dev'." then i typed git branch to see the list of branches. then i switched from master to dev using the command git checkout dev. 
